@@ -1,0 +1,2 @@
+model_checkpoint_path: "my_model_final_l1_reg.ckpt"
+all_model_checkpoint_paths: "my_model_final_l1_reg.ckpt"
